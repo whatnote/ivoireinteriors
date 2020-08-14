@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;500&display=swap');
+
+
+
+.hero{
+    padding-top: 20PX;
+    padding-bottom: 20PX;
+}
+
+.text{
+
+    margin: 5px;
+    padding: 10px;
+    font-family:'Baloo Tamma 2', cursive;
+}
+
+#box {
+    border-style: solid;
+    }
+
+
+.headerpic{
+    width: 100%;
+}
