@@ -8,17 +8,65 @@
 }
 
 .text{
-
+    font-size: 35px;
     margin: 5px;
     padding: 10px;
     font-family:'Baloo Tamma 2', cursive;
+    color:#696666;
+
 }
 
-#box {
+.text2{
+      font-family:'Baloo Tamma 2', cursive;
+    color:#696666;
+    font-size: 20px;
+}
+
+
+
+#boxlogo{
     border-style: solid;
+    border-radius: 0px;
+    color:#696666;
+
     }
 
 
 .headerpic{
     width: 100%;
+}
+
+/*------------------------------footer */
+
+
+.social-networks { 
+    text-align: center;
+}
+
+.social-networks, li {   
+    display: inline;
+}
+
+.social-networks, i {
+    font-size: 32px;
+    margin: 1%;
+    padding: 1%;
+    color:#696666;
+    
+}
+
+.ptext{
+    color:#696666;
+    text-align: center; 
+    font-family:'Baloo Tamma 2', cursive;
+    font-size: 16px;
+    padding: 1px;
+}
+
+.makerlink{
+    color:black;
+    text-align: center; 
+    font-family:'Baloo Tamma 2', cursive;
+    font-size: 16px;
+
 }
